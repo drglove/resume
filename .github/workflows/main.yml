@@ -47,6 +47,6 @@ jobs:
         with:
           # Artifact name
           name: resume
-          path: *.pdf
+          path: resume.pdf
           if-no-files-found: error
 
